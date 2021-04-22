@@ -28,12 +28,11 @@ Following this tutorial will require recent installations of:
 - shapely
 - ipyleaflet
 - GDAL-OGR
-- [Jupyter Notebook](http://jupyter.org)
+- [venv]( https://docs.python.org/3/library/venv.html)
 
 If you do not yet have these packages installed, we recommend to use the [venv]( https://docs.python.org/3/library/venv.html ) environment manager to install all the requirements 
 
-Once venv is installed create env
-
+Once venv is installed create environment by following command
 ```
 python3 -m venv geopy2021 
 ```
