@@ -9,7 +9,7 @@ GIS web developers are exactly those people. They work with modern technologies 
 
 ![https://images.unsplash.com/photo-1523497804259-88c4c134ca90?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb](https://images.unsplash.com/photo-1523497804259-88c4c134ca90?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 
-##  What the 🐟 is GIS ?
+## ⚫ What the 🐟 is GIS ?
 
 wiki says, A geographic information system (GIS) is a conceptualised framework that provides the ability to capture and analyse spatial and geographic data.
 
