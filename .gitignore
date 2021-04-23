@@ -115,3 +115,5 @@ dmypy.json
 
 
 .geopy2021/
+
+data/raster/

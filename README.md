@@ -43,7 +43,6 @@ once environment is create, activate it by following command
 source geopy2021/bin/activate
 ```
 All required packages can be installed by following command
-
 ```
 pip install -r requirements.txt
 ```
