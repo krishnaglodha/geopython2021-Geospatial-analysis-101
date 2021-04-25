@@ -12,11 +12,9 @@ Complete Series is divided into the following subtopics :
 
 1. Introduction to GIS, GIS Data formats
 2. Introduction and Installation of all Geospatial libraries in computer and in python environment
-3. Working with GDAL and OGR capabilities
-4. Spatial Operations and Relationships
-5. Vector data analysis and visualization
-6. Raster Data analysis and visualization
-7. Working with Interactive Map in a python notebook
+3. Spatial Operations and Relationships
+4. Vector data analysis and visualization
+5. Working with Interactive Map in a python notebook
    
 
 ## Installation notes
